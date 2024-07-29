@@ -1,0 +1,31 @@
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\bin\Debug\net7.0\appsettings.Development.json
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\bin\Debug\net7.0\appsettings.json
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\bin\Debug\net7.0\Repository Pattern and Advanced Querying.staticwebassets.runtime.json
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\bin\Debug\net7.0\Repository Pattern and Advanced Querying.exe
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\bin\Debug\net7.0\Repository Pattern and Advanced Querying.deps.json
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\bin\Debug\net7.0\Repository Pattern and Advanced Querying.runtimeconfig.json
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\bin\Debug\net7.0\Repository Pattern and Advanced Querying.dll
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\bin\Debug\net7.0\Repository Pattern and Advanced Querying.pdb
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\obj\Debug\net7.0\Repository Pattern and Advanced Querying.csproj.AssemblyReference.cache
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\obj\Debug\net7.0\Repository Pattern and Advanced Querying.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\obj\Debug\net7.0\Repository Pattern and Advanced Querying.AssemblyInfoInputs.cache
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\obj\Debug\net7.0\Repository Pattern and Advanced Querying.AssemblyInfo.cs
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\obj\Debug\net7.0\Repository Pattern and Advanced Querying.csproj.CoreCompileInputs.cache
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\obj\Debug\net7.0\Repository Pattern and Advanced Querying.MvcApplicationPartsAssemblyInfo.cache
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\obj\Debug\net7.0\Repository Pattern and Advanced Querying.RazorAssemblyInfo.cache
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\obj\Debug\net7.0\Repository Pattern and Advanced Querying.RazorAssemblyInfo.cs
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\obj\Debug\net7.0\staticwebassets\msbuild.Repository Pattern and Advanced Querying.Microsoft.AspNetCore.StaticWebAssets.props
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\obj\Debug\net7.0\staticwebassets\msbuild.build.Repository Pattern and Advanced Querying.props
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Repository Pattern and Advanced Querying.props
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Repository Pattern and Advanced Querying.props
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\obj\Debug\net7.0\staticwebassets.pack.json
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\obj\Debug\net7.0\staticwebassets.build.json
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\obj\Debug\net7.0\staticwebassets.development.json
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\obj\Debug\net7.0\scopedcss\bundle\Repository Pattern and Advanced Querying.styles.css
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\obj\Debug\net7.0\scopedcss\projectbundle\Repository Pattern and Advanced Querying.bundle.scp.css
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\obj\Debug\net7.0\Repository Pattern and Advanced Querying.dll
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\obj\Debug\net7.0\refint\Repository Pattern and Advanced Querying.dll
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\obj\Debug\net7.0\Repository Pattern and Advanced Querying.pdb
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\obj\Debug\net7.0\Repository Pattern and Advanced Querying.genruntimeconfig.cache
+E:\visual project\Repository Pattern and Advanced Querying\Repository Pattern and Advanced Querying\obj\Debug\net7.0\ref\Repository Pattern and Advanced Querying.dll
